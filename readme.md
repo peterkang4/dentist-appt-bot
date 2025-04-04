@@ -1,3 +1,4 @@
-# pip install openai
+# Setup 
+pip install openai
 
-# setup .env, appointment_data.js
+.env, appointment_data.js
